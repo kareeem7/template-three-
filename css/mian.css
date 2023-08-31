@@ -1012,6 +1012,9 @@ i {
   justify-content: center;
   align-items: center;
 }
+.how>.container>.img>img{
+  width: 100%;
+}
 .how-box > .box {
   display: flex;
   padding: 20px 50px;
